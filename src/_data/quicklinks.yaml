@@ -1,14 +1,15 @@
----
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: I've come across CSAM.
+    url: https://report.cybertip.org/
+    desc: Report Child Sexual Abuse Material online right now.
+  - title: I'm suicidal.
+    url: https://988lifeline.org/
+    desc: Get support through the 988 lifeline.
+  - title: I'm being abused.
+    url: https://www.childhelphotline.org
+    desc: There are hotlines and resources. Use a device you feel is safe and
+      unmonitored.
+  - title: I want to expedite research efforts.
+    url: https://cybfi.org/blog
+    desc: We are working to provide studies to parents, teachers, and medical
+      doctors to help abuse victims.
