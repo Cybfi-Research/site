@@ -31,7 +31,7 @@ collections:
         create: true
         options: ["Research Findings", "Company Update", "Story"]
   - label: "Research"
-    name: "blog"
+    name: "research"
     folder: "src/research"
     create: true
     editor:
